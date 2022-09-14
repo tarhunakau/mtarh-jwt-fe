@@ -1,6 +1,6 @@
 {
   "name": "@mtarh/jwt-fe",
-  "version": "0.1",
+  "version": "0.1.1",
   "description": "JWT utils for browsers",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",

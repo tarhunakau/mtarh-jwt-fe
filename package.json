@@ -4,6 +4,7 @@
   "description": "JWT utils for browsers",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
+  "private": false,
   "scripts": {
     "build": "tsc",
     "format": "prettier --write \"src/**/*.(js|ts)\"",

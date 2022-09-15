@@ -49,5 +49,8 @@
   "dependencies": {
     "forge": "git+https://github.com/digitalbazaar/forge.git",
     "uuid": "^9.0.0"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
